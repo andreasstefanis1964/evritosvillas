@@ -52,7 +52,7 @@
     "imageResize": true,
     "usedWebp": true,
     "favicon": "@PROJECT_PATH@/assets/images/evritos-villas.png",
-    "mbrsiteDomain": "7drricgl40",
+    "mbrsiteDomain": "evritosvillas",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
